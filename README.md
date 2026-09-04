@@ -211,7 +211,7 @@ When you're comfortable with this, you can learn:
 
 ## Helpful links (if you get stuck)
 
-- [Bash basics guide](https://www.gnu.org/software/bash/manual/bash.html) (official instructions,the whole course 0 to 100 is in this link)
+- [Bash basics guide](https://www.gnu.org/software/bash/manual/bash.html)*this link give error, but it used to work* ,now this link is better cause its we schools:(https://www.w3schools.com/bash/bash_getstarted.php)...(official instructions,the whole course 0 to 100 is in this link)
 - [Linux commands guide](https://www.linux.com/training-tutorials/linux-101-introduction-linux/) (learn more about Linux)
 - [Kali Linux guide](https://www.kali.org/) (learn about Kali Linux)
 
