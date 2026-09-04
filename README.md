@@ -14,20 +14,16 @@ To keep track of my learning journey and understand how to write **Bash scripts*
 
 ## What will I learn?
 
-✅ How to write Bash code  
-✅ How to run Bash programs  
-✅ Basic computer science concepts  
-✅ How to use Kali Linux commands  
-
----
+How to write Bash code  
+How to run Bash programs  
+Basic computer science concepts  
+How to use Kali Linux commands  
 
 ## What is Bash?
 
 **Bash** = A simple programming language that lets you talk to your computer by typing commands.
 
 Think of it like giving instructions to your computer in a special language it understands.
-
----
 
 ## What do I need before starting?
 
@@ -36,8 +32,6 @@ Think of it like giving instructions to your computer in a special language it u
 - A computer with Linux or Kali Linux (a special Linux version for hacking tools)
 - A text editor (a program to write code) like Notepad or VSCode
 - That's it! Just basic computer knowledge
-
----
 
 ## How do I run the code?
 
@@ -132,8 +126,6 @@ Then run:
 ./scripts/hello.sh
 ```
 
----
-
 ### ❌ Error: "bash: ./scripts/hello.sh: command not found"
 
 **Problem:** The file doesn't exist yet
@@ -157,8 +149,6 @@ ls
 
 This shows all files and folders in the current location.
 
----
-
 ### Go to a folder
 
 ```bash
@@ -166,18 +156,13 @@ cd scripts
 ```
 
 This takes you into the `scripts` folder.
-
----
-
 ### Go back up
 
 ```bash
 cd ..
 ```
 
-This takes you to the parent folder (one level up).
-
----
+This takes you to the parent folder (one level up)
 
 ### Check where you are
 
@@ -187,8 +172,6 @@ pwd
 
 This shows your current location.
 
----
-
 ### Read a file
 
 ```bash
@@ -197,7 +180,6 @@ cat hello.sh
 
 This shows what's inside the `hello.sh` file.
 
----
 
 ## Inside `hello.sh` - What does the code mean?
 
@@ -218,8 +200,6 @@ Let me break this down:
 - `"Hello, World!"` = The text to print
 - So this line prints: `Hello, World!`
 
----
-
 ## Next steps (what to do after Day 1)
 
 When you're comfortable with this, you can learn:
@@ -229,15 +209,11 @@ When you're comfortable with this, you can learn:
 - **Day 4:** If statements (making decisions)
 - **Day 5:** Functions (organizing your code)
 
----
-
 ## Helpful links (if you get stuck)
 
-- [Bash basics guide](https://www.gnu.org/software/bash/manual/bash.html) (official instructions)
+- [Bash basics guide](https://www.gnu.org/software/bash/manual/bash.html) (official instructions,the whole course 0 to 100 is in this link)
 - [Linux commands guide](https://www.linux.com/training-tutorials/linux-101-introduction-linux/) (learn more about Linux)
 - [Kali Linux guide](https://www.kali.org/) (learn about Kali Linux)
-
----
 
 ## Questions?
 
@@ -246,11 +222,5 @@ If something doesn't work or you don't understand:
 1. Read the error message carefully
 2. Check the "Common mistakes" section above
 3. Try again with the fix
-
----
-
-**Keep learning! You got this! 🚀**
-
----
-
-*Started: Day 1 - 2026-08-21*
+###################################################################################################################################################################################
+*Started: Day 1 - 2026-09-04 at 16:30 
